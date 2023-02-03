@@ -1,0 +1,1 @@
+console.log('Bem vindo ao curso de Gerência de Configurações')
